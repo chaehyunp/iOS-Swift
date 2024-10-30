@@ -18,6 +18,6 @@
 
 |구분|프로젝트|기간|인원|노션|리뷰어|
 |------|------|--|--|--|----|
-|미니프로젝트|[🙋🏻 자기소개앱](https://github.com/CuissonEVEN/EvenH2.git)|10.21 ~ 10.25|6인|[2븐하게 익은조](https://teamsparta.notion.site/2-d584746e0f4d4916829354a27e5bd323)| - |
-|개인프로젝트|[🧮 계산기앱](https://github.com/chaehyunp/playground-calculator.git)|10.30 ~ 10.31|1인| - | - |
+|미니프로젝트|[🙋🏻 자기소개 앱 'ㅎ2'](https://github.com/CuissonEVEN/EvenH2.git)|10.21 ~ 10.25|6인|[2븐하게 익은조](https://teamsparta.notion.site/2-d584746e0f4d4916829354a27e5bd323)| - |
+|개인프로젝트|[🧮 계산기 기능 구현](https://github.com/chaehyunp/playground-calculator.git)|10.30 ~ 10.31|1인| - | - |
 

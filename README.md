@@ -20,5 +20,5 @@
 |------|------|--|--|--|----|
 |미니프로젝트|[🙋🏻 자기소개 앱 'ㅎ2'](https://github.com/CuissonEVEN/EvenH2.git)|10.21 ~ 10.25|6인|[2븐하게 익은조](https://teamsparta.notion.site/2-d584746e0f4d4916829354a27e5bd323)| - |
 |개인프로젝트|[🧮 계산기 기능 구현](https://github.com/chaehyunp/Week1-Calculator)|10.30 ~ 10.31|1인| - | - |
-|개인프로젝트|[⚾️ 숫자 야구 게임 구현]([https://github.com/chaehyunp/playground-calculator.git)](https://github.com/chaehyunp/Week2-BaseballGame))|11.05 ~ 11.06|1인| - | - |
+|개인프로젝트|[⚾️ 숫자 야구 게임 구현](https://github.com/chaehyunp/Week2-BaseballGame)(https://github.com/chaehyunp/Week2-BaseballGame))|11.05 ~ 11.06|1인| - | - |
 
